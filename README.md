@@ -9,6 +9,15 @@ I am Julien Lassus, an aspiring data scientist with a solid background in applie
 - ⚽ Sports Analytics
 - 🏦 Finance
 
+## 🚀 GitHub Stats
+![Julien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julien-lassus&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+## 🛠️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-lassus&layout=compact&theme=dark)
+
+## 📂 Recent Projects
+- [Project Name 1](#) *(Link coming soon)*
+  
 ## 📫 Contact
-- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/jlassus/))
+- [LinkedIn](https://www.linkedin.com/in/jlassus/)
 - 📩 Email: j.lassus.92@gmail.com
