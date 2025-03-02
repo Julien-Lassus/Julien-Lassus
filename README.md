@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Julien-Lassus/Julien-Lassus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am Julien Lassus, an aspiring data scientist with a solid background in applied mathematics, specializing in finance and econometrics. Currently, I am pursuing a master’s degree in data science, focusing on finance and insurance. However, my true passion lies in applying data science to sports. My GitHub is where I explore projects at the intersection of data science and sports analytics.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- 📊 Econometrics (R, SAS, Python)
+- 📈 Data Science & Machine Learning
+- ⚽ Sports Analytics
+- 🏦 Finance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/jlassus/))
+- 📩 Email: j.lassus.92@gmail.com
