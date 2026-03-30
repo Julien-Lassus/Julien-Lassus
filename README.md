@@ -16,7 +16,7 @@ I am Julien Lassus, an aspiring data scientist with a solid background in applie
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julien-lassus&layout=compact&theme=dark)
 
 ## 📂 Recent Projects
-- [Project Name 1](#) *(Link coming soon)*
+- [Vehcile Routing Optimization](https://github.com/Julien-Lassus/vehicle-routing-optimization.git)
   
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/jlassus/)
